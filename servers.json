@@ -12,5 +12,19 @@
         "ip": "185.207.214.14",
         "port": "4285"
 
+    },
+    {
+        "online": "0",
+        "maxonline": "50",
+        "color": "FF6918",
+        "x2": "true",
+        "key": "1424",
+        "name": "CastleH 7days",
+        "firstname": "CastleH 7days",
+        "secondname": "",
+        "url": "ice.blackrussia.online",
+        "ip": "188.127.241.8",
+        "port": "1457"
+
     }
 ]
